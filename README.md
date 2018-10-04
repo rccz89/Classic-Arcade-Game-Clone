@@ -17,6 +17,8 @@ This is the second project of the intermediate JavaScript section for Udacity's 
 ![screen shot 2018-10-04 at 5 43 16 pm](https://user-images.githubusercontent.com/28276138/46505895-844d1700-c800-11e8-8fcd-6ec5a0f57694.png)
 
 
+
+
 ![screen shot 2018-10-04 at 5 43 31 pm](https://user-images.githubusercontent.com/28276138/46505904-89aa6180-c800-11e8-907c-13d81f1b1fc3.png)
 
 ## Required
