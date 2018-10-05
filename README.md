@@ -23,4 +23,7 @@ This is the second project of the intermediate JavaScript section for Udacity's 
 
 ## Required
 
+- Download or Clone the Repository.
+- Double click the index.html file to view the project in your browser.
 - Google font : Codystar.
+
